@@ -1,4 +1,2 @@
-Everything is licensed as CC0.
-Textures based off of Tac Nayn.
-Most code by me.
-Thankyou to everyone who helped me with the code.
+Textures are licensed as CC0.
+Code is MIT.
