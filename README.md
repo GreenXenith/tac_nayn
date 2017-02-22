@@ -18,7 +18,7 @@ you can craft Tac Nayn and it's rainbows.
 **Crafting (only applies if the waffle mod is enabled):**	
 
 *	Tac Nayn:	
-B = Black Dye   W = Large Waffle   N = Nyan Cat	
+B = Black Dye   W = Large Waffle   N = Nyan Cat		
 |B||W||B|	
 |W||N||W|	
 |B||W||B|	
